@@ -1,0 +1,266 @@
+"InstallScript"
+{
+	"utf8_registry_strings"		"1"
+	"Registry"
+	{
+		"HKEY_LOCAL_MACHINE_WOW64_32\\SOFTWARE\\EA Games\\Battlefield 1"
+		{
+			"string"
+			{
+				"Install Dir"		"%INSTALLDIR%\\"
+				"(Default)"		""
+				"Product GUID"		"{335B50BC-6130-4BAF-9A6A-F1561270587B}"
+				"arabic"
+				{
+					"Locale"		"ar_SA"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"german"
+				{
+					"Locale"		"de_DE"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"english"
+				{
+					"Locale"		"en_US"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"spanish"
+				{
+					"Locale"		"es_ES"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"latam"
+				{
+					"Locale"		"es_MX"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"french"
+				{
+					"Locale"		"fr_FR"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"italian"
+				{
+					"Locale"		"it_IT"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"japanese"
+				{
+					"Locale"		"ja_JP"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"polish"
+				{
+					"Locale"		"pl_PL"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"brazilian"
+				{
+					"Locale"		"pt_BR"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"russian"
+				{
+					"Locale"		"ru_RU"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"turkish"
+				{
+					"Locale"		"tr_TR"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"tchinese"
+				{
+					"Locale"		"zh_TW"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+			}
+		}
+		"HKEY_LOCAL_MACHINE_WOW64_64\\SOFTWARE\\EA Games\\Battlefield 1"
+		{
+			"string"
+			{
+				"Install Dir"		"%INSTALLDIR%\\"
+				"(Default)"		""
+				"Product GUID"		"{335B50BC-6130-4BAF-9A6A-F1561270587B}"
+				"arabic"
+				{
+					"Locale"		"ar_SA"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"german"
+				{
+					"Locale"		"de_DE"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"english"
+				{
+					"Locale"		"en_US"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"spanish"
+				{
+					"Locale"		"es_ES"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"latam"
+				{
+					"Locale"		"es_MX"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"french"
+				{
+					"Locale"		"fr_FR"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"italian"
+				{
+					"Locale"		"it_IT"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"japanese"
+				{
+					"Locale"		"ja_JP"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"polish"
+				{
+					"Locale"		"pl_PL"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"brazilian"
+				{
+					"Locale"		"pt_BR"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"russian"
+				{
+					"Locale"		"ru_RU"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"turkish"
+				{
+					"Locale"		"tr_TR"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+				"tchinese"
+				{
+					"Locale"		"zh_TW"
+					"DisplayName"		"Battlefield™ 1 (x64)"
+				}
+			}
+		}
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Origin Games\\1026023"
+		{
+			"string"
+			{
+				"arabic"
+				{
+					"Locale"		"ar_SA"
+					"DisplayName"		"Battlefield™ 1"
+				}
+				"german"
+				{
+					"Locale"		"de_DE"
+					"DisplayName"		"Battlefield™ 1"
+				}
+				"english"
+				{
+					"Locale"		"en_US"
+					"DisplayName"		"Battlefield™ 1"
+				}
+				"spanish"
+				{
+					"Locale"		"es_ES"
+					"DisplayName"		"Battlefield™ 1"
+				}
+				"latam"
+				{
+					"Locale"		"es_MX"
+					"DisplayName"		"Battlefield™ 1"
+				}
+				"french"
+				{
+					"Locale"		"fr_FR"
+					"DisplayName"		"Battlefield™ 1"
+				}
+				"italian"
+				{
+					"Locale"		"it_IT"
+					"DisplayName"		"Battlefield™ 1"
+				}
+				"japanese"
+				{
+					"Locale"		"ja_JP"
+					"DisplayName"		"Battlefield™ 1"
+				}
+				"polish"
+				{
+					"Locale"		"pl_PL"
+					"DisplayName"		"Battlefield™ 1"
+				}
+				"brazilian"
+				{
+					"Locale"		"pt_BR"
+					"DisplayName"		"Battlefield™ 1"
+				}
+				"russian"
+				{
+					"Locale"		"ru_RU"
+					"DisplayName"		"Battlefield™ 1"
+				}
+				"turkish"
+				{
+					"Locale"		"tr_TR"
+					"DisplayName"		"Battlefield™ 1"
+				}
+				"tchinese"
+				{
+					"Locale"		"zh_TW"
+					"DisplayName"		"Battlefield™ 1"
+				}
+			}
+		}
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{335B50BC-6130-4BAF-9A6A-F1561270587B}"
+		{
+			"string"
+			{
+				"(Default)"		""
+				"DisplayName"		"Battlefield 1"
+				"DisplayIcon"		"%INSTALLDIR%\\bf1.exe"
+				"InstallLocation"		"%INSTALLDIR%"
+				"publisher"		"Electronic Arts, Inc."
+				"URLInfoAbout"		"http://www.ea.com"
+			}
+		}
+	}
+	"Copy Files"
+	{
+		"LocFiles"
+		{
+			"ResetOnLanguageChange"		"1"
+			"SrcFile1"		"%INSTALLDIR%\\__Installer\\LOC\\Origin.OFR.50.0001380.dat"
+			"DstFile1"		"%PROGRAMDATA%\\Origin\\LocalContent\\Battlefield 1\\Origin.OFR.50.0001380.dat"
+		}
+	}
+	"Delete Files On Uninstall"
+	{
+		"DstFile1"		"%PROGRAMDATA%\\Origin\\LocalContent\\Battlefield 1\\Origin.OFR.50.0001380.dat"
+	}
+	"Run Process"
+	{
+		"EADesktopSetup"
+		{
+			"Process 1"		"%INSTALLDIR%\\__Installer\\Origin\\redist\\internal\\EAappInstaller.exe"
+			"Command 1"		"EAX_LAUNCH_CLIENT=0 IGNORE_INSTALLED=1"
+			"HasRunStringKey"		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Electronic Arts\\EA Desktop\\InstallSuccessful"
+			"HasRunStringValue"		"true"
+			"RunType"		"1"
+		}
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"30d42e5667a5554a5a025aac74c44421ab0bb6bf0626ff88290819152c055730bea871f8154c823aad20bd4c7c38101a4d7f9f8448dff1ef093de0336c2324f9a542e5ed62ce025531f0fc5ac831a3c2005227d55944fd3b43e99dcdd1ee961569bd10211a74a4f256372275130c54ed04789b45413d78b7d4824257fe5d6382"
+}
