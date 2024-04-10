@@ -46,6 +46,7 @@ def steam_to_ea():
     if install_dir:
         try:
             os.remove(os.path.join(install_dir, "EAStore.ini"))
+            os.remove(os.path.join(install_dir, "installScript.vdf"))
         except FileNotFoundError:
             messagebox.showinfo("Info", "EAStore.ini 文件不存在。")
         except Exception as e:
